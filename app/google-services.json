@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522747386277",
+    "project_id": "basictutorial-4cc1c"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522747386277:android:cb103a0b6d853075",
+        "android_client_info": {
+          "package_name": "minukututorial.demo.basictutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522747386277-obisduo71hdu5a2mgh0tbaq41ji1l629.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC4a4g8RbsshgM7Yn_gwY3OYNr5hYcz0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
